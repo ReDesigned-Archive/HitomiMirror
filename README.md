@@ -1,3 +1,3 @@
 # HitomiMirror
-my first python project
+my first python project  
 all pull requests are rejected
